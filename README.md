@@ -6,8 +6,7 @@ This Horiseon Marketing Agency webpage is a refractor exercise to improve skill 
 
 ## Screenshot of Final Product
 
-```md
 ![Horiseon Page Screenshot](assets/images/horiseon-screenshot.png)
-```
+
 
 
