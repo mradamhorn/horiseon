@@ -10,6 +10,6 @@ This Horiseon Marketing Agency webpage is a refractor exercise to improve skill 
 
 ## Link to Horiseon Page
 
-[Horiseon Page Placeholder]()
+[Horiseon Page](https://mradamhorn.github.io/horiseon/)
 
 
